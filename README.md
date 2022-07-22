@@ -9,5 +9,4 @@ In this project I use external dependency for <html><strong>Splash Screen</stron
 </ul>
 </html>
 # Preview
-![]
-
+![]([https://github.com/coderHM79/MHM-Simple-Calculator/blob/main/Preview.gif](https://github.com/iamswapnil22/Android-Calculator-Application/blob/master/ezgif-3-28dd88c0b3.gif))
