@@ -18,5 +18,6 @@
     <string name="substract">–</string>
     <string name="addition">+</string>
     <string name="equal">=</string>
+    <string name="calculator">Calculator</string>
 
 </resources>
