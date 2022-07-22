@@ -9,4 +9,4 @@ In this project I use external dependency for <html><strong>Splash Screen</stron
 </ul>
 </html>
 # Preview
-<img src="ezgif-3-28dd88c0b3.gif" width="350px">
+<img src="Android-Emulator-Unit_Converter-2022-07-22-12-54-13.gif" width="350px">
