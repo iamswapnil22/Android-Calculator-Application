@@ -8,5 +8,3 @@ In this project I use external dependency for <html><strong>Splash Screen</stron
   <li>MxParser - https://mathparser.org/</li>
 </ul>
 </html>
-# Preview
-<img src="Android-Emulator-Unit_Converter-2022-07-22-12-54-13.gif" width="350px">
