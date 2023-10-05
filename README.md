@@ -8,3 +8,4 @@ In this project I use external dependency for <html><strong>Splash Screen</stron
   <li>MxParser - https://mathparser.org/</li>
 </ul>
 </html>
+
